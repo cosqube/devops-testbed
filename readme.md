@@ -3,13 +3,13 @@
 
 ___
 
-##About
+## About
 
 This repo is designed as a **Devops Practice project**. It contains:
--Sample apps
--Dockerfiles
--Kubernates manifests
--CI/CD pipelines using Github actions
--GitOps structure and automation
+- Sample apps
+- Dockerfiles
+- Kubernates manifests
+- CI/CD pipelines using Github actions
+- GitOps structure and automation
 
 ___
